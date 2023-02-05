@@ -1,0 +1,16 @@
+
+#include <stdio.h>
+
+int main()
+{
+    char g1, g2, g3;
+    g1 = 'A';
+    g2 = 'B';
+    g3 = 'C';
+    
+    printf("Grade One:%c\n",g1);
+    printf("Grade Two:%c\n",g2);
+    printf("Grade Three:%c\n",g3);
+return 0;
+}
+    
